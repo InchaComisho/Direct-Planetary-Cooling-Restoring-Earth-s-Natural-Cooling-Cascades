@@ -1,4 +1,4 @@
-# InchaComisho リポジトリ総合台帳
+# マスター総合リポジトリ索引
 
 [English Version](REPOSITORY_INDEX.md) | [地球直接冷却 README](README_ja.md) | [NOTE：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
