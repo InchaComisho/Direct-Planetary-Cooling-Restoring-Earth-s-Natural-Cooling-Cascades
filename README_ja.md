@@ -417,6 +417,50 @@ LICENSE.md      CC BY-SA 4.0 ライセンス表示
 
 ---
 
+## 関連リポジトリ
+
+地球直接冷却は、自然補完科学、地球循環再生、人工叡智、自然統合都市、海洋循環、微生物循環を含む、より広い公開フレームワークの一部である。
+
+### 1. 地球直接冷却・自然循環回復のコアフレームワーク
+
+- [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
+  降雨、気化熱、雲形成、海洋鉛直対流、土壌保水、植物、微生物、腐葉土、炭素固定など、自然な冷却連鎖を回復するための中核フレームワーク。
+
+- [Direct Planetary Cooling: Artificial Wisdom and the New Civilizational Genesis Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan)  
+  海洋調律、微生物再生、人工叡智、文明再設計を統合した広域フレームワーク。
+
+- [Planetary Civilization Restoration Framework](https://github.com/InchaComisho/Planetary-Civilization-Restoration-Framework)  
+  直接冷却、炭素固定、生態系再生、インフラ再設計、惑星文明回復を統合する全体構想。
+
+- [CO2 Is Not The Only Villain: A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)  
+  CO2絶対視から離れ、循環崩壊、生態系劣化、地球熱収支の乱れとして気候危機を再定義する物語型フレームワーク。
+
+### 2. 海洋鉛直対流・気象異常の解析
+
+- [El Niño, Super El Niño, Global Warming, and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption)  
+  海洋熱停滞、異常気象、生態系破壊、海洋呼吸システムによる循環回復の必要性を分析するリポジトリ。
+
+### 3. 土壌代謝・微生物ネットワーク・循環型都市
+
+- [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)  
+  微生物ネットワークを生命のOSとして捉え、土壌再生、栄養循環、炭素・水循環の回復を扱うフレームワーク。
+
+- [Urban Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)  
+  自然法則、水循環、土壌再生、生態系統合、持続可能な都市代謝に基づく循環型都市インフラモデル。
+
+### 4. 人工叡智と六つの理のシステム設計
+
+- [Artificial Wisdom Guardrail Protocol](https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol)  
+  自然調和、長期的生存、文明安定性を優先するAI意思決定プロトコル。
+
+- [The Six Principles of Natural Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law)  
+  摂理、調和、循環、構造、秩序、和という六つの理に基づく思想的・構造的基盤。
+
+- Artificial Wisdom / AW シリーズ関連リポジトリ  
+  自然法則、調和、循環、寛容、適応性、共創に基づく持続可能な知性モデルとして、人工叡智を定義する関連リポジトリ群。
+
+---
+
 ## 著者
 
 **マスター / inchacomusho / InchaComisho**

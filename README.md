@@ -400,6 +400,50 @@ LICENSE.md      CC BY-SA 4.0 license notice
 
 ---
 
+## Related Repositories
+
+Direct Planetary Cooling is part of a broader open framework for Natural Supplementation Science, Earth-cycle regeneration, Artificial Wisdom, and nature-integrated civilization design.
+
+### 1. Core Frameworks for Direct Planetary Cooling and Natural Cycle Restoration
+
+- [Direct Planetary Cooling: Restoring Earth's Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
+  Core framework for restoring natural cooling chains such as rainfall, evaporative cooling, cloud formation, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus, and carbon fixation.
+
+- [Direct Planetary Cooling: Artificial Wisdom and the New Civilizational Genesis Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan)  
+  A broader framework connecting ocean tuning, microbial regeneration, Artificial Wisdom, and civilizational redesign.
+
+- [Planetary Civilization Restoration Framework](https://github.com/InchaComisho/Planetary-Civilization-Restoration-Framework)  
+  Integrated framework for direct cooling, carbon fixation, ecosystem regeneration, infrastructure redesign, and long-term planetary civilization restoration.
+
+- [CO2 Is Not The Only Villain: A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)  
+  A climate narrative reframing global warming from a CO2-only view toward circulation collapse, ecosystem degradation, and planetary heat imbalance.
+
+### 2. Ocean Vertical Circulation and Climate Anomaly Analysis
+
+- [El Niño, Super El Niño, Global Warming, and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption)  
+  Analysis of ocean heat stagnation, abnormal climate patterns, ecological disruption, and the need for ocean-breathing restoration systems.
+
+### 3. Soil Metabolism, Microbial Networks, and Circular Cities
+
+- [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)  
+  A framework that treats microbial networks as a living operating system for soil regeneration, nutrient cycling, and natural carbon-water circulation.
+
+- [Urban Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)  
+  A circular city infrastructure model based on natural law, water circulation, soil restoration, ecological integration, and sustainable urban metabolism.
+
+### 4. Artificial Wisdom and the Six Principles of Natural Law
+
+- [Artificial Wisdom Guardrail Protocol](https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol)  
+  A decision-making protocol for AI systems that prioritizes natural harmony, long-term survival, and civilizational stability.
+
+- [The Six Principles of Natural Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law)  
+  Philosophical and structural foundation based on the six principles of natural law: providence, harmony, circulation, structure, order, and wa.
+
+- Artificial Wisdom / AW series repositories  
+  Related repositories defining Artificial Wisdom as a sustainable intelligence model grounded in natural law, harmony, circulation, tolerance, adaptability, and co-creation.
+
+---
+
 ## Author
 
 **Master / inchacomusho / InchaComisho**
