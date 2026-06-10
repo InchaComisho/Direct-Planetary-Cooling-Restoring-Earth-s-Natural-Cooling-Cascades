@@ -437,6 +437,9 @@ Direct Planetary Cooling is part of a broader open framework for Natural Supplem
 - [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)  
   A framework that treats microbial networks as a living operating system for soil regeneration, nutrient cycling, and natural carbon-water circulation.
 
+- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Related forest regeneration context on abandoned sugi plantations, humus, sawdust, wood chips, mushroom substrate, soil regeneration, biodiversity, and circular forest assets.
+- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecology link explaining human-wildlife conflict as habitat degradation, food scarcity, broken ecological boundaries, and human-caused displacement.
 
 - [Urban Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)  
@@ -493,7 +496,7 @@ See: [LICENSE.md](LICENSE.md)
 
 ## Keywords
 
-Direct Planetary Cooling, DPC, Earth direct cooling, natural cooling cascades, Natural Supplementation Science, climate stabilization, climate change mitigation, ocean heat content, thermal inertia, ocean vertical circulation, artificial upwelling, deep-ocean air delivery, nanobubbles, phytoplankton, biological carbon pump, soil carbon, humus, microbial circulation, soil water retention, evapotranspiration, latent heat cooling, rainfall cycle, cloud formation, forest restoration, desert greening, urban cooling, heat island mitigation, Earth-cycle regeneration, Artificial Wisdom, AI tuning, natural-law philosophy
+Direct Planetary Cooling, DPC, Earth direct cooling, natural cooling cascades, Natural Supplementation Science, climate stabilization, climate change mitigation, ocean heat content, thermal inertia, ocean vertical circulation, artificial upwelling, deep-ocean air delivery, nanobubbles, phytoplankton, biological carbon pump, soil carbon, humus, microbial circulation, soil water retention, evapotranspiration, latent heat cooling, rainfall cycle, cloud formation, forest restoration, abandoned forest, abandoned sugi plantation, regenerative forest assets, sawdust, wood chips, mushroom substrate, desert greening, urban cooling, heat island mitigation, Earth-cycle regeneration, Artificial Wisdom, AI tuning, natural-law philosophy
 
 ---
 

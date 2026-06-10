@@ -454,6 +454,9 @@ LICENSE.md      CC BY-SA 4.0 ライセンス表示
 - [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)  
   微生物ネットワークを生命のOSとして捉え、土壌再生、栄養循環、炭素・水循環の回復を扱うフレームワーク。
 
+- [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md) — 放置杉林、腐葉土、おがくず、木材チップ、キノコ、土壌再生、生物多様性、山林資産化を扱う関連論考。
+- [NOTE原文：放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
+
 - [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md) — 森林荒廃、餌不足、里山境界の崩壊、生態系変位として、人間と野生動物の衝突を整理する関連論考。
 
 - [Urban Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)  
@@ -511,7 +514,7 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 ## キーワード
 
-地球直接冷却、Direct Planetary Cooling、DPC、自然補完科学、自然補完型冷却、地球冷却、気候変動対策、地球温暖化対策、熱慣性、海洋熱含量、海洋鉛直対流、深海空気送気、ナノバブル、植物プランクトン、生物ポンプ、炭素固定、土壌炭素、腐葉土、土壌再生、微生物循環、土壌保水、雨水循環、雲形成、気化熱、蒸散冷却、森林再生、砂漠緑化、都市冷却、ヒートアイランド対策、地球循環再生、人工叡智、AI調律、自然法則思想
+地球直接冷却、Direct Planetary Cooling、DPC、自然補完科学、自然補完型冷却、地球冷却、気候変動対策、地球温暖化対策、熱慣性、海洋熱含量、海洋鉛直対流、深海空気送気、ナノバブル、植物プランクトン、生物ポンプ、炭素固定、土壌炭素、腐葉土、土壌再生、微生物循環、土壌保水、雨水循環、雲形成、気化熱、蒸散冷却、森林再生、放置山林、放置杉林、山林負債、山林資産化、おがくず、木材チップ、キノコ、砂漠緑化、都市冷却、ヒートアイランド対策、地球循環再生、人工叡智、AI調律、自然法則思想
 
 ---
 
