@@ -437,6 +437,8 @@ Direct Planetary Cooling is part of a broader open framework for Natural Supplem
 - [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)  
   A framework that treats microbial networks as a living operating system for soil regeneration, nutrient cycling, and natural carbon-water circulation.
 
+- [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecology link explaining human-wildlife conflict as habitat degradation, food scarcity, broken ecological boundaries, and human-caused displacement.
+
 - [Urban Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)  
   A circular city infrastructure model based on natural law, water circulation, soil restoration, ecological integration, and sustainable urban metabolism.
 

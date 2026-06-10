@@ -454,6 +454,8 @@ LICENSE.md      CC BY-SA 4.0 ライセンス表示
 - [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)  
   微生物ネットワークを生命のOSとして捉え、土壌再生、栄養循環、炭素・水循環の回復を扱うフレームワーク。
 
+- [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md) — 森林荒廃、餌不足、里山境界の崩壊、生態系変位として、人間と野生動物の衝突を整理する関連論考。
+
 - [Urban Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)  
   自然法則、水循環、土壌再生、生態系統合、持続可能な都市代謝に基づく循環型都市インフラモデル。
 
