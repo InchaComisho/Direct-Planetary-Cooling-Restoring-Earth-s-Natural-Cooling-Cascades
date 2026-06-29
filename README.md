@@ -2,7 +2,7 @@
 
 ## Restoring Earth’s Natural Cooling Cascades
 
-[日本語版 / Japanese Version](README_ja.md) | [Related NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0) | [License: CC BY-SA 4.0](LICENSE.md) | [Repository Index](REPOSITORY_INDEX.md)
+[日本語版 / Japanese Version](README_ja.md) | [Related NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0) | [License: CC BY 4.0](LICENSE.md) | [Repository Index](REPOSITORY_INDEX.md)
 
 **Direct Planetary Cooling (DPC)** is a natural-supplementation climate stabilization framework that restores Earth’s broken cooling cascades: rain, clouds, wind, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus formation, and carbon fixation.
 
@@ -389,7 +389,7 @@ In short:
 ```text
 README.md       English version
 README_ja.md    Japanese version / 日本語版
-LICENSE.md      CC BY-SA 4.0 license notice
+LICENSE.md      CC BY 4.0 license notice
 ```
 
 ---
@@ -496,8 +496,8 @@ Builder and proposer of the academic framework of Natural Supplementation Scienc
 
 ## License
 
-CC BY-SA 4.0  
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0  
+Creative Commons Attribution 4.0 International
 
 See: [LICENSE.md](LICENSE.md)
 

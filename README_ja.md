@@ -2,7 +2,7 @@
 
 ## 地球本来の冷却カスケードを回復する自然補完型気候安定化体系
 
-[English Version](README.md) | [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0) | [ライセンス：CC BY-SA 4.0](LICENSE.md) | [リポジトリ総合台帳](REPOSITORY_INDEX_ja.md)
+[English Version](README.md) | [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0) | [ライセンス：CC BY 4.0](LICENSE.md) | [リポジトリ総合台帳](REPOSITORY_INDEX_ja.md)
 
 **地球直接冷却（Direct Planetary Cooling, DPC）** とは、太陽光を遮るだけの気候工学ではなく、人間活動によって壊れた雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定の循環をつなぎ直し、地球本来の冷却機能を回復させる自然補完型の気候安定化体系である。
 
@@ -406,7 +406,7 @@ CDR → 長期的に大気中CO2を減らす可能性
 ```text
 README.md       英語版
 README_ja.md    日本語版
-LICENSE.md      CC BY-SA 4.0 ライセンス表示
+LICENSE.md      CC BY 4.0 ライセンス表示
 ```
 
 ---
@@ -514,8 +514,8 @@ LICENSE.md      CC BY-SA 4.0 ライセンス表示
 
 ## ライセンス
 
-CC BY-SA 4.0  
-Creative Commons Attribution-ShareAlike 4.0 International
+CC BY 4.0  
+Creative Commons Attribution 4.0 International
 
 詳細：[LICENSE.md](LICENSE.md)
 
