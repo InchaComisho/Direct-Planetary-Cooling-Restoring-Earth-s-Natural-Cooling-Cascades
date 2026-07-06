@@ -1,5 +1,7 @@
 # 地球直接冷却
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 地球本来の冷却カスケードを回復する自然補完型気候安定化体系
 
 [English Version](README.md) | [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0) | [ライセンス：CC BY 4.0](LICENSE.md) | [リポジトリ総合台帳](REPOSITORY_INDEX_ja.md)

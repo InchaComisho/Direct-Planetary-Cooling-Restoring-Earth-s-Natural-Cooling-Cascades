@@ -1,5 +1,7 @@
 # Direct Planetary Cooling
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Restoring Earth’s Natural Cooling Cascades
 
 [日本語版 / Japanese Version](README_ja.md) | [Related NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0) | [License: CC BY 4.0](LICENSE.md) | [Repository Index](REPOSITORY_INDEX.md)
