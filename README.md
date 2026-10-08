@@ -4,7 +4,7 @@
 
 ## Restoring Earth’s Natural Cooling Cascades
 
-[日本語版 / Japanese Version](README_ja.md) | [Related NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0) | [License: CC BY 4.0](LICENSE.md) | [Repository Index](REPOSITORY_INDEX.md)
+[日本語版 / Japanese Version](README_ja.md) | [License: CC BY 4.0](LICENSE.md) | [Repository Index](REPOSITORY_INDEX.md)
 
 **Direct Planetary Cooling (DPC)** is a natural-supplementation climate stabilization framework that restores Earth’s broken cooling cascades: rain, clouds, wind, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus formation, and carbon fixation.
 
@@ -396,11 +396,6 @@ LICENSE.md      CC BY 4.0 license notice
 
 ---
 
-## Related Article
-
-- [NOTE Japanese article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
-
-
 ---
 
 ## Master Knowledge Portal
@@ -440,7 +435,6 @@ Direct Planetary Cooling is part of a broader open framework for Natural Supplem
   A framework that treats microbial networks as a living operating system for soil regeneration, nutrient cycling, and natural carbon-water circulation.
 
 - [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Related forest regeneration context on abandoned sugi plantations, humus, sawdust, wood chips, mushroom substrate, soil regeneration, biodiversity, and circular forest assets.
-- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecology link explaining human-wildlife conflict as habitat degradation, food scarcity, broken ecological boundaries, and human-caused displacement.
 

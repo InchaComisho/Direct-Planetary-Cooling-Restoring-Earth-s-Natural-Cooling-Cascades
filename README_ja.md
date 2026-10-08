@@ -4,7 +4,7 @@
 
 ## 地球本来の冷却カスケードを回復する自然補完型気候安定化体系
 
-[English Version](README.md) | [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0) | [ライセンス：CC BY 4.0](LICENSE.md) | [リポジトリ総合台帳](REPOSITORY_INDEX_ja.md)
+[English Version](README.md) | [ライセンス：CC BY 4.0](LICENSE.md) | [リポジトリ総合台帳](REPOSITORY_INDEX_ja.md)
 
 **地球直接冷却（Direct Planetary Cooling, DPC）** とは、太陽光を遮るだけの気候工学ではなく、人間活動によって壊れた雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定の循環をつなぎ直し、地球本来の冷却機能を回復させる自然補完型の気候安定化体系である。
 
@@ -413,11 +413,6 @@ LICENSE.md      CC BY 4.0 ライセンス表示
 
 ---
 
-## 関連記事
-
-- [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
-
-
 ---
 
 ## マスター知識体系ポータル
@@ -457,7 +452,6 @@ LICENSE.md      CC BY 4.0 ライセンス表示
   微生物ネットワークを生命のOSとして捉え、土壌再生、栄養循環、炭素・水循環の回復を扱うフレームワーク。
 
 - [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md) — 放置杉林、腐葉土、おがくず、木材チップ、キノコ、土壌再生、生物多様性、山林資産化を扱う関連論考。
-- [NOTE原文：放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 
 - [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md) — 森林荒廃、餌不足、里山境界の崩壊、生態系変位として、人間と野生動物の衝突を整理する関連論考。
 

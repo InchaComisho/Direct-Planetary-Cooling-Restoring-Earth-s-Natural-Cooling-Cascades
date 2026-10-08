@@ -1,6 +1,6 @@
 # マスター総合リポジトリ索引
 
-[English Version](REPOSITORY_INDEX.md) | [地球直接冷却 README](README_ja.md) | [NOTE：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
+[English Version](REPOSITORY_INDEX.md) | [地球直接冷却 README](README_ja.md)
 
 このファイルは、`InchaComisho` 配下の公開リポジトリを管理するための総合台帳である。
 

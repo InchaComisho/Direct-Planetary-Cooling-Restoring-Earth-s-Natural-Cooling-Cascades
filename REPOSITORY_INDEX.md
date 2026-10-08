@@ -1,6 +1,6 @@
 # # Master Repository Index
 
-[日本語版](REPOSITORY_INDEX_ja.md) | [Core DPC README](README.md) | [NOTE: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
+[日本語版](REPOSITORY_INDEX_ja.md) | [Core DPC README](README.md)
 
 This file is a management index for the public repositories under `InchaComisho`.
 
